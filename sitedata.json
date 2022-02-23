@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Kids sports website",
+        "smallImage": "img/KidsSportsWebsite.png",
+        "smallImageAlt": "Shows off a website for kids",
+        "largeImage": "img/KidsSportsWebsiteFull.jpg",
+        "largeImageAlt": "Shows off site for kids sports with multiple views.",
+        "projectText": "Project #1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!",
+        "challengesText": "Challenge #1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!",
+        "technologies": ["HTML", "CSS", "JavaScript", "C#"]
+    },
+    {
+        "title": "Pet adoption campaign",
+        "smallImage": "img/PetAdoptionCampaign.png",
+        "smallImageAlt": "Shows off print pieces asking people to adopt pets",
+        "largeImage": "img/PetAdoptionCampaignFull.jpg",
+        "largeImageAlt": "Shows off print pieces asking people to adopt pets.",
+        "projectText": "Project #2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!",
+        "challengesText": "Challenge #2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!",
+        "technologies": ["PDF", "InDesign", "Custom Clipart Design"]
+    },
+    {
+        "title": "Pub website",
+        "smallImage": "img/PubWebsite.png",
+        "smallImageAlt": "Shows off a site for a pub",
+        "largeImage": "img/PubWebsiteFull.jpg",
+        "largeImageAlt": "Shows off a site for a pub.",
+        "projectText": "Project #3 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!",
+        "challengesText": "Challenge #3 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!",
+        "technologies": ["HTML", "CSS", "JavaScript", "LocalStorage"]
+    }
+
+]

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Portfolio</title>
+    <meta name="description" content="Individual sample of portfolio"> <!--Search engines-->
+
+    <meta property="og:title" content="Ally's Portfolio"> <!-- this shows on twitter and fb-->
+    <meta property="og:description" content="Individual sample of portfolio">
+    
+    <meta property="og:url" content="https://portfoliosamplejp.azurewebsites.net/workitem.html">
+    <link rel="canonical" href="https://portfoliosamplejp.azurewebsites.net/workitem.html">
+
+    <meta property="og:image" content="https://portfoliosamplejp.azurewebsites.net/img/ally.png">
+    <meta property="og:image:alt" content="Smiling person">
+
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="twitter:card" content="summary_large_image">
+
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li class="work-item-nav" ><a href="workitem.html?item=1">Item #1</a></li>
+                <li class="work-item-nav" ><a href="workitem.html?item=2">Item #2</a></li>
+                <li class="work-item-nav" ><a href="workitem.html?item=3">Item #3</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2 id="work-item-header">01. Kids Sports Website</h2>
+        <img id="work-item-image" src="img/KidsSportsWebsiteFull.jpg" alt="">
+        <div id="project-text" class="work-item-text">
+            <h3>The Project</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!
+            </p>
+        </div> 
+        <div id="technologies-text" class="work-item-text">
+            <h3>technologies</h3>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>C#</li>
+            </ul>
+        </div> 
+        <div id="challenges-text" class="work-item-text">
+            <h3>The Challenges</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quae perferendis minima perspiciatis deleniti! Voluptatem voluptatum assumenda officiis repellendus debitis!
+            </p>
+        </div>        
+    </main>
+    <footer>
+        &copy; <span id="copyrightYear">2022</span> by Ally
+    </footer>
+    <script src="js/app.js"></script>
+    <script>
+        app.workItem();
+    </script>
+</body>
+</html>
